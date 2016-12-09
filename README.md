@@ -1,9 +1,10 @@
 ##OS Keychains collection
 
-This is a repository containing some 3D printable logos of different operating systems such a:
+This is a repository containing some 3D printable logos of different operating systems such as:
 
-- Arch Linux
+
 - Ubuntu Linux
-- Kubuntu Linux
 - Windows 10
-- Fedora
+
+More are to be added.
+

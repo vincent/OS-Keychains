@@ -6,6 +6,7 @@ This is a repository containing some 3D printable logos of different operating s
 - Ubuntu Linux
 - Windows 10
 - Debian
+- Arch Linux
 
 More are to be added.
 
